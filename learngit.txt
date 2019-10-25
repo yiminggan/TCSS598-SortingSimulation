@@ -7,3 +7,4 @@ learn no-ff merge
 learn git stash 
 create bug
 create bug: fixed it
+learn git stash : there are some work, need to stash
