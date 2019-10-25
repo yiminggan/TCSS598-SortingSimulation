@@ -1,2 +1,2 @@
-learn GIT jbranch AND learn
+learn GIT jbranch and learn
 learn branch conflict
