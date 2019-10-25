@@ -6,3 +6,4 @@ learn enough conflic
 learn no-ff merge
 learn git stash 
 create bug
+create bug: fixed it
