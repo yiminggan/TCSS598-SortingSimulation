@@ -39,4 +39,4 @@ Submit:
 
     (e) Other issues: what measure of sortedness have you decided to use. 
 
-Test & Learn
+Test and Learn
