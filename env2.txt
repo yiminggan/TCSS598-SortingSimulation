@@ -2,4 +2,4 @@
 env2 needed
 env2 ini AND/OR creat
 first edit env2
-bug for remote branch
+bug fixed and update for remotebranch
