@@ -1,3 +1,0 @@
-env2 needed
-env2 ini and creat
-first edit env2
