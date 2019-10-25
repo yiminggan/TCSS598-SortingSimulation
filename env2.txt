@@ -1,1 +1,3 @@
-env2 creat
+env2 needed
+env2 ini & creat
+first edit env2
